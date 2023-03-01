@@ -6,7 +6,7 @@ This week I built a Rust program that can give information of nearest incoming 
 
 ## Usage
 
-```sh
+
 git clone https://github.com/Jackkzh/IDS721.git
 
 cd week6_miniproj/holidayapp/src
