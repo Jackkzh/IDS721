@@ -17,8 +17,7 @@ YYYY-MM-DD (example: 2023-03-15)
 ```
 
 ## Result 
-
-<img width="535" alt="image" src="https://user-images.githubusercontent.com/101923398/222234826-a712dfec-b72f-44eb-b183-d422384fb125.png">
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/101923398/222238465-ddb6c01b-12db-4b63-924c-c3cfa62fd04c.png">
 
 
 ## References
