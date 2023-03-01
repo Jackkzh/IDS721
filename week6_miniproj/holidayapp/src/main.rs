@@ -61,3 +61,4 @@ fn get_holidays() -> Result<Vec<Holiday>, Box<dyn std::error::Error>> {
     let json: Vec<Holiday> = serde_json::from_str(&resp)?;
     Ok(json)
 }
+
