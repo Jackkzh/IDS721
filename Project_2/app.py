@@ -20,4 +20,4 @@ def hello_city(city):
     return f"The weather in {city} is {round(weather, 2)} degrees in Celsius!"
 
 if __name__ == '__main__':
-    app.run()
+     app.run(debug=True, host='0.0.0.0', port=8000)
