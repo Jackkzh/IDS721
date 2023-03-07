@@ -16,7 +16,7 @@ cargo run
 ```
 
 ## Result 
-image.png
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/101923398/223483878-51788668-4876-4dfe-9da6-44fd7ce3a269.png">
 
 
 ## References
