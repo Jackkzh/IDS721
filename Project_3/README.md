@@ -6,6 +6,7 @@ build a content-based filtering Spotify Recommendation System.
 (Content-based filtering: aiming to describe the track by examining the content itself)
 
 The pipeline of this system would be :
+&nsbp;
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/101923398/223912089-b043055d-7bf8-4cec-b6a8-6db38c27fec3.png">
 
 
