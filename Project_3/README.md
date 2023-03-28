@@ -5,9 +5,9 @@ System, which provides song recommendations based on the audio features of the s
 
 The pipeline of this system is as follows:
 
-Data Processing
-K-means Clustering
-Recommendation System
+&nbsp; Data Processing
+&nbsp; K-means Clustering
+&nbsp; Recommendation System
 
 
 
