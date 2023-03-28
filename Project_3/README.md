@@ -4,6 +4,10 @@
 This project aims to build a content-based filtering Spotify Recommendation System, which provides song recommendations based on the audio features of the songs. Content-based filtering focuses on describing a track by examining its content, in this case, its audio features, rather than user interactions or preferences.
 
 
+The pipeline of this system would be:
+![Spotify Recommendation System Pipeline](https://user-images.githubusercontent.com/101923398/223912089-b043055d-7bf8-4cec-b6a8-6db38c27fec3.png)
+
+
 ### The pipeline of this system:
 
 &nbsp; Data Processing
@@ -30,8 +34,6 @@ The recommendation system then provides a list of songs from the identified clus
 
 
 
-The pipeline of this system would be:
-![Spotify Recommendation System Pipeline](https://user-images.githubusercontent.com/101923398/223912089-b043055d-7bf8-4cec-b6a8-6db38c27fec3.png)
 
 
 ## Progess I Made
