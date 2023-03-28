@@ -1,9 +1,15 @@
 # Project 3 
 
 ## Overview
-build a content-based filtering Spotify Recommendation System.
+System, which provides song recommendations based on the audio features of the songs. Content-based filtering focuses on describing a track by examining its content, in this case, its audio features, rather than user interactions or preferences.
 
-(Content-based filtering: aiming to describe the track by examining the content itself)
+The pipeline of this system is as follows:
+
+Data Processing
+K-means Clustering
+Recommendation System
+
+
 
 The pipeline of this system would be:
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/101923398/223912089-b043055d-7bf8-4cec-b6a8-6db38c27fec3.png">
