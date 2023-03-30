@@ -11,7 +11,7 @@ In this project, I plan to build a serverless pipeline to train and extract info
 ## steps 
 1. Collect and preprocess data: Create an S3 bucket and upload the dataset to it. Data is collected from Kaggle. Then use AWS Lambda to preprocess the data and store it in Amazon S3.
 2. Train the model: Once the data has been preprocessed and stored in Amazon S3, train the recommendation system model using a machine learning framework. I plan to use AWS Lambda, then store the trained model in Amazon S3.
-3. - Run queries in AWS Athena and view the songs results, and save them for visualization.
+3. Run queries in AWS Athena and view the songs results, and save them for visualization.
 
 
 
