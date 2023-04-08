@@ -16,7 +16,7 @@ Create a Lambda function that will perform music data analysis on the data in S3
 
 Using the Athena query service, you can use SQL query language to query data in the S3 bucket. You can use Athena query language to filter data, group data, compute data, and more.
 
-Create a Lambda function that will perform necessary tasks based on your requirements, such as storing data in a database or sending results to an SNS topic.
+Create a Lambda function that will perform necessary tasks based on your requirements, such as storing data in a database or sending results to an SQS queue.
 
 
 ## steps 
