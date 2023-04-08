@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Rust project is developed with the purpose of solving annoying photo size problems when applying for documents or making applications.
+This Rust project is developed with the purpose of solving annoying photo size problems when filling out applications.
 
 It supports .jpg file and is able to compress it to meet requirements for most photo standard.  
 
