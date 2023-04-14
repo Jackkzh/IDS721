@@ -30,3 +30,4 @@ Create a Lambda function that will perform necessary tasks based on your require
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
 * https://github.com/noahgift/awslambda
+* https://aws.amazon.com/cn/blogs/devops/micro-etl-pipeline-how-to-fetch-process-and-refresh-small-data-using-aws-lambda-and-aws-sam/
