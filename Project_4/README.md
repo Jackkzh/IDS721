@@ -8,7 +8,7 @@ This is a project for IDS 721, and the goal of this project is to create a tool 
 ## Project Overview
 In this project, I plan to build a serverless pipeline to train and extract information from songs' attributes dateset, which would be .csv files. I plan to use AWS S3 fot data storing, AWS Athena database and AWS Lambda for training. 
 
-![image](https://user-images.githubusercontent.com/101923398/231911786-de90a278-74c3-4908-80e0-40641f7e35fd.png)
+![image](https://user-images.githubusercontent.com/101923398/231911950-514ee192-c391-4817-9876-58424005dbba.png)
 
 Store Spotify music data in an S3 bucket. During this process, you can divide the data into multiple CSV files and upload them to an S3 bucket.
 
