@@ -8,7 +8,7 @@ This is a project for IDS 721, and the goal of this project is to create a tool 
 ## Project Overview
 In this project, I plan to build a serverless pipeline to train and extract information from songs' attributes dateset, which would be .csv files. I plan to use AWS S3 fot data storing, AWS Athena database and AWS Lambda for training. 
 
-<img width="663" alt="image" src="https://user-images.githubusercontent.com/101923398/230741651-ccf712f1-3d68-4876-b380-71fd5ef2fdaa.png">
+![image](https://user-images.githubusercontent.com/101923398/231911786-de90a278-74c3-4908-80e0-40641f7e35fd.png)
 
 Store Spotify music data in an S3 bucket. During this process, you can divide the data into multiple CSV files and upload them to an S3 bucket.
 
@@ -29,3 +29,4 @@ Create a Lambda function that will perform necessary tasks based on your require
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+* https://github.com/noahgift/awslambda
