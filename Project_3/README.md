@@ -11,6 +11,10 @@ This project aims to build a content-based filtering Spotify Recommendation Syst
 
 &nbsp; Recommendation System 
 
+
+![image](https://user-images.githubusercontent.com/101923398/235553888-351d9523-5eb7-43fc-a5b2-5e9aa18c7184.png)
+
+
 ## Data Processing
 The dataset is sourced from Kaggle's Spotify open songs dataset.
 The data is preprocessed to extract the desired information, such as audio features and other metadata.
